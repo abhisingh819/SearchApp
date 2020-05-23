@@ -10,6 +10,6 @@ import Foundation
 
 class Constant {
     
-    static let GOOGLE_API_KEY = "AIzaSyDZYZGxrQe48C5tSBPEbeCOUjugHylXY8s"
+    static let GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"
     
 }
